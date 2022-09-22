@@ -1,4 +1,4 @@
-# background-creator
+# background-generator
 <br>
 Link - 
 <br>
